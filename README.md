@@ -1,5 +1,5 @@
 # Author:PangeranAlvins
-#Reupload: memesbachha
+# Reupload: memesbachha
 # installation
 
 ```
@@ -9,6 +9,6 @@ bash install.sh
 python2 Repot3.py
 
 ```
-#follow me
+# follow me
 
 
