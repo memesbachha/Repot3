@@ -1,5 +1,5 @@
 # Author:PangeranAlvins
-# Reupload: memesbachha
+# Reupload: memes-bachha
 # installation
 
 ```
